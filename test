@@ -1,1 +1,1 @@
-dbt run
+select * from all
